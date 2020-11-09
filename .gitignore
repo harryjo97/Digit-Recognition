@@ -1,0 +1,9 @@
+# Files to ignore
+
+*.hdf5
+
+# Directories to ignore
+
+codes/submission/
+
+codes/saved_model/
